@@ -10,9 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1
+# Data Science Portfolio
+---
+## Machine learning
 
-Fraud Detection.
+### Fraud Detection
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
 
 <dl>
@@ -22,8 +26,6 @@ Fraud Detection.
 <dd>1998</dd>
 <dt>Birthplace</dt>
 <dd>India</dd>
-<dt>Color</dt>
-<dd>Green</dd>
 </dl>
 
 ```
